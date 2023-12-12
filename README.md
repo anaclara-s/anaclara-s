@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/anaclara-s/anaclara-s/assets/113073135/bc84ccb6-246b-4a2c-934f-57e0bac8bf3c)
+![github-header-image](https://github.com/anaclara-s/anaclara-s/assets/113073135/6f276474-36b1-4631-9b13-f4dc275fe011)
+
 <br>
 <br>
 <div style="display: inline_block"><br>
@@ -12,9 +13,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclara-s&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclara-s&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 </div>
-
 
